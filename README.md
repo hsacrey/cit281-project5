@@ -6,6 +6,8 @@ The game will create monsters with initial life values, and minimum life values 
 
 The game includes a delay (via a sleep function) before each life drain.
 
+###Primary concepts: class constructors and methods, interpreting existing code to design a new class, including constructor and methods, working with Array map() and forEach() methods, a gaming loop, working with objects and arrays
+
 #### p5-monster.js:
 ```javascript
 /*
